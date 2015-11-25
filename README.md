@@ -1,5 +1,6 @@
 # qtdark-syntax theme
 
-A short description of your theme.
+Atom theme inspired from Qt Creator Dark theme
+or the Vim ansi-blows theme
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](http://i.imgur.com/Gsx0a5o.png)
