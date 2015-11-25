@@ -1,0 +1,15 @@
+{
+  "name": "qtdark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "theme inspired form Qt Creator dark theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/stelro/qtdark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
